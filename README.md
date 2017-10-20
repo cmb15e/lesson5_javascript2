@@ -13,8 +13,7 @@ Connor Blay
 In this project, I learned how to calculate the tax rate that people in different tax brackets pay, using JavaScript code.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cmb15e.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. Computing taxes using JavaScript.
